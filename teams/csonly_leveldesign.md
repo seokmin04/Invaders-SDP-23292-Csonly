@@ -11,7 +11,7 @@ Member
 | [LEE SANGHYEON]()                                | hyeoni000401@gmail.com  |
 | [Lee Seong min]()                                | aydd4488@gmail.com      |
 | [CHO GUNHA]()                                    | jojo88092@gmail.com |
-| [Lee SeokMin]()                                  | seokmin04@hanyang.ac.kr |
+| [Lee SeokMin](https://github.com/seokmin04)                                  | seokmin04@hanyang.ac.kr |
 | [Amartsogt Tsogtbaatar]()                        | amartsogttsogtbaatar@gmail.com |
 
 ## Team Requirements
